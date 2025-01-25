@@ -1,0 +1,27 @@
+{ 
+		"name": "Bamboo Kingdom Minecraft",
+		"leaderName": "Bamboo Joridason",
+		"adjective": ["Bamboo"],
+    "startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [87, 233, 108],
+		"innerColor": [69, 114, 48],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Capital District"]
+	},
